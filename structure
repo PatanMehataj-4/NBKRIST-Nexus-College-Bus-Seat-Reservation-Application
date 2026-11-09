@@ -1,0 +1,24 @@
+NBKRIST-Nexus/
+│
+├── README.md
+│
+├── main.py
+│
+├── frontend/
+│   ├── lib/
+│   ├── assets/
+│   └── pubspec.yaml
+│
+├── backend/
+│   ├── main.py
+│   └── requirements.txt
+│
+├── firebase/
+│   └── firebase_config.example
+│
+├── screenshots/
+│   ├── home.png
+│   ├── seat_booking.png
+│   └── admin.png
+│
+└── .gitignore
