@@ -74,7 +74,7 @@ This is a real-world application designed to address an actual college transport
 
 **Application Status:** Live on Google Play Store
 
-**Play Store Link:** [Add your Google Play Store URL here]
+**Play Store Link:** https://play.google.com/store/apps/details?id=com.techtitans.seatbooking&hl=en_IN
 
 ## 🔮 Future Enhancements
 
